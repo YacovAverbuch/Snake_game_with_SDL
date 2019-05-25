@@ -1,6 +1,6 @@
 # Snake game using SDL library
 
-I took the eccelent tour for SDL with the playlist of 'lets make gakes'
+I took the eccelent tour for SDL with the playlist of 'lets make games'
 https://www.youtube.com/user/creaper/featured
 
 I used the dinamic libraries of SDL so in order to use the executable, the OS has to recognise
